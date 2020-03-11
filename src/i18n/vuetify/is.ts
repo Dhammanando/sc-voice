@@ -118,7 +118,7 @@ export default {
     secretAccessKey: 'Leynilegur aðgangslykill',
     selectNikayasToUpdate: 'Velja Niköjur til að uppfæra:',
     selectRepo: 'Select "Veldu "geymsla" gátreitinn',
-    speaker: 'Speaker',
+    speaker: 'Talari',
     started: 'Byrjað:',
     step1Release: '1. SKREF. Endurræsa netþjóninn (~1.5 mínútur)',
     step2Release: '2. SKREF. Uppfæra útgáfu (~1.5 mínútur',
@@ -211,12 +211,12 @@ export default {
     showTransText: "Sýna þýðingu",
     storeSettingsInCookies: "Geyma stillingar í vafrakökum",
     trackOfSection: "A_TRACK af A_TRACKS",
-    translation: "Translation",
+    translation: "Þýðing",
     transLanguage: "Þýðingamál",
-    translatedBy: "Translated by",
+    translatedBy: "Þýtt af",
     uiLanguage: "Tungumál vefsíðu",
     wikiAria: "Home.md",
-    noTranslationAvailable: "(no translation available)",
+    noTranslationAvailable: "(engin þýðing í boði)",
 
   }
 }
